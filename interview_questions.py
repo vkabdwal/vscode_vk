@@ -101,7 +101,7 @@ def find_median_sorted_arrays(nums1, nums2):
         return merged[n // 2]
 print("Median of [1, 3] and [2]:", find_median_sorted_arrays([1, 3], [2]))
 
-# Q-18 - 
-
+# Q-18 - How to convert all the column names of a dataframe to lowercase inplace
+df.columns = [col.lower() for col in df.columns]
 
 
