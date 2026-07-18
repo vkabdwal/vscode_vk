@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/
+ai_synthetic_data/outputs/
+ai_synthetic_data/profiles/
